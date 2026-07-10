@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #176BFF;
+  --color-primary-100: #E8F0FF;
+  --color-text: #1A1A1A;
+  --color-muted: #6A6A6A;
+  --color-page: #F5F6FA;
+  --color-card: #FFFFFF;
+
+  --color-status-green: #1BAA4A;
+  --color-status-orange: #FF8A00;
+  --color-status-red: #E44141;
+}
